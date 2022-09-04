@@ -1,4 +1,4 @@
-instabrute 
+instabruteforce
 
 Download&install
 
