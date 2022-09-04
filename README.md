@@ -1,4 +1,4 @@
-instabruteforce
+Must-insta-force 
 
 Download&install
 
@@ -6,7 +6,7 @@ apt-get install tor
 
 git clone https://github.com/GodlyMUST/instabrute.git
 
-cd InstaBrute
+cd must-insta-force
 
 chmod +x insta.sh
 
