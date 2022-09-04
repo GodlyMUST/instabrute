@@ -1,8 +1,10 @@
-instabrute### Download&install
+instabrute 
+
+Download&install
 
 apt-get install tor
 
-git clone 
+git clone https://github.com/GodlyMUST/instabrute.git
 
 cd InstaBrute
 
